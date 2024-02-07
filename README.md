@@ -1,2 +1,2 @@
 # Papolingo
-Sotrzebny: Pip (pip install pillow)
+Potrzebny: Pip (pip install pillow)
