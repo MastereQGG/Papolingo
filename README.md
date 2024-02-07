@@ -1,2 +1,2 @@
 # Papolingo
-Apk
+Sotrzebny: Pip (pip install pillow)
